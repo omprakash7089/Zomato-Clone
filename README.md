@@ -1,2 +1,2 @@
 # Zomato-Clone
-Zomato-clone
+Kinite-bar clone
